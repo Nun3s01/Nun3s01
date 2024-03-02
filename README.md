@@ -23,7 +23,7 @@
 <h1></h1>
 
 </br>
-<p align="center">
+<p align="justify">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=bhaskara.s-algorithm&theme=shadow_red&icon_color=ff0000&text_color=ad0000&title_color=cc0000&bg_color=DEG,400a0a,00000000,00000000,400a0a" width="300" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=hello-world&theme=shadow_red&icon_color=ff0000&text_color=ad0000&title_color=cc0000&bg_color=DEG,400a0a,00000000,00000000,400a0a" width="300"/> 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=converting-seconds.py&theme=shadow_red&icon_color=ff0000&text_color=ad0000&title_color=cc0000&bg_color=DEG,400a0a,00000000,00000000,400a0a" width="257" align=""/>
