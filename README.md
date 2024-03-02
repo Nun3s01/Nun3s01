@@ -1,5 +1,5 @@
 <h1></h1>
-<p align="center"><img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/welcomogif.gif" width="159px"/></p>
+<p align="center"><img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/tenor.gif" width="550px"/></p>
 <p>
   <h3 align="center"><samp>👋 Hello!</samp></h3>
 </p>
