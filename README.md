@@ -16,7 +16,7 @@
 
 </br>
 <p align="justify">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nun3s01&show=reviews&show_icons=true&theme=shadow_red&icon_color=ff0000&title_color=ffffff&text_color=ededed&bg_color=00000000" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nun3s01&show=reviews&show_icons=true&theme=shadow_red&icon_color=ff0000&title_color=ffffff&text_color=ededed" width="380"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nun3s01&layout=compact&show_icons=true&theme=shadow_red&icon_color=ff0000&title_color=ffffff&text_color=ededed&bg_color=00000000" width="383" align="right"/>
 </p>
 
