@@ -34,6 +34,6 @@
 </br>
 </br>
 </br>
-<p align="center">
+<p align="center" background_color="#070417">
   <img src="https://komarev.com/ghpvc/?username=Nun3s01&style=plastic&color=blue"/>
 </p>
