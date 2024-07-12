@@ -24,9 +24,9 @@
 
 </br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=bhaskara.s-algorithm&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=#070417" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=hello-world&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=#070417" width="300"/> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=converting-seconds.py&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=#070417" width="257" align=""/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=bhaskara.s-algorithm&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=hello-world&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="300"/> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=converting-seconds.py&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="257" align=""/>
 </p>
 
 </br>
