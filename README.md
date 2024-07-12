@@ -1,4 +1,4 @@
-<head background_color="070417">
+<body background_color="070417">
 <h1></h1>
   <p align="center"><img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/tenor.gif" width="550px"/></p>
   <h1></h1>
@@ -12,7 +12,7 @@
       </br>   <! -- /\/\ continuação do parágrafo de cima /\/\ -->
     </samp>
   </h3>
-</head>
+</body>
 <h1></h1>
 
 </br>
