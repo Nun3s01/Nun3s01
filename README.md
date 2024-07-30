@@ -33,11 +33,9 @@
 <h1></h1>
 
 </br>
-<p align="center">
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="cauãnunes77" data-version="v1">
+  <div align="center" class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="cauãnunes77" data-version="v1">
     <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/cau%C3%A3nunes77?trk=profile-badge">Cauã Nunes Novaes</a>
   </div>            
-</p>
 </br>
 </br>
 </br>
