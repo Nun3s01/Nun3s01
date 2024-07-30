@@ -34,7 +34,7 @@
 
 </br>
 <p align="center">
-  <img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/linkedin.png" />
+  <img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/linkedin.png" alt="https://www.youtube.com/" width="25" height="25"/>
 </p>
                         
 </br>
