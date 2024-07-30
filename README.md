@@ -30,6 +30,14 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=converting-seconds.py&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="257" align=""/>
 </p>
 
+<h1></h1>
+
+</br>
+<p align="center">
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="cauãnunes77" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/cau%C3%A3nunes77?trk=profile-badge">Cauã Nunes Novaes</a>
+  </div>            
+</p>
 </br>
 </br>
 </br>
