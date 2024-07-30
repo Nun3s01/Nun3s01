@@ -1,6 +1,6 @@
 <body background_color="070417">
 <h1></h1>
-  <p align="center"><img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/tenor.gif" width="550px"/></p>
+  <p align="center"><img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/welcome-images-server.gif" width="420px"/></p>
   <h1></h1>
   <h3 align="center"><samp>👋 Hello!</samp></h3>
   <h3 align="center">
