@@ -39,20 +39,7 @@
 
 </br>
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/cauãnunes77/">
-      <img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/linkedin.png" width="30px" />
-    </a>
-  <p align="center">Cauã Nunes Novaes</p>
-</div>
-</br>
-<div align="center">
-  <a href="https://www.instagram.com/c.nun3s_/">
-    <img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/instagram.png" width="30px" />
-  </a>
-  <p align="center">@Cauã Nunes</p>
-</div>
-                        
+             
 </br>
 </br>
 </br>
