@@ -1,16 +1,13 @@
 <h1></h1>
 
-<style> 
-  h1 {
-    font-family: 'Campton';
-    src: url('https://github.com/Nun3s01/Nun3s01/tree/main/resources/myfonts_order_6061603815594/Campton-BoldDEMO.otf') format ('opentype'), url('')
-    
-  }
-</style>
+<p align="center">
+  <img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/Sans-Black-WBG-unscreen.gif" width="460px"/>
+</p>
 
-<p align="center"><img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/welcome-images-server.gif" width="420px"/></p>
 <h1></h1>
+
 <h3 align="center"><samp>👋 Hello!</samp></h3>
+
 <h3 align="center">
   <samp>I'm Cauã, and I'm studying</samp>
   <samp>
@@ -41,21 +38,26 @@
 <h1></h1>
 
 </br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/cauãnunes77/">
-    <img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/linkedin.png" width="25" height="25" />
-  </a>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/cauãnunes77/">
+      <img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/linkedin.png" width="30px" />
+    </a>
+  <p align="center">Cauã Nunes Novaes</p>
+</div>
 </br>
+<div align="center">
   <a href="https://www.instagram.com/c.nun3s_/">
-    <img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/instagram.png" width="25" height="25" />
+    <img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/instagram.png" width="30px" />
   </a>
-</p>
+  <p align="center">@Cauã Nunes</p>
+</div>
                         
 </br>
 </br>
 </br>
 </br>
 </br>
-<p align="center" background_color="#070417">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nun3s01&style=plastic&color=blue"/>
 </p>
