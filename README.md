@@ -1,18 +1,26 @@
-<body background_color="070417">
 <h1></h1>
-  <p align="center"><img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/welcome-images-server.gif" width="420px"/></p>
-  <h1></h1>
-  <h3 align="center"><samp>👋 Hello!</samp></h3>
-  <h3 align="center">
-    <samp>I'm Cauã, and I'm studying</samp>
-    <samp>
-      </br> System Analysis and Development.
-    </samp>
-    <samp>
-      </br>   <! -- /\/\ continuação do parágrafo de cima /\/\ -->
-    </samp>
-  </h3>
-</body>
+
+<style> 
+  h1 {
+    font-family: 'Campton';
+    src: url('https://github.com/Nun3s01/Nun3s01/tree/main/resources/myfonts_order_6061603815594/Campton-BoldDEMO.otf') format ('opentype'), url('')
+    
+  }
+</style>
+
+<p align="center"><img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/welcome-images-server.gif" width="420px"/></p>
+<h1></h1>
+<h3 align="center"><samp>👋 Hello!</samp></h3>
+<h3 align="center">
+  <samp>I'm Cauã, and I'm studying</samp>
+  <samp>
+    </br> System Analysis and Development.
+  </samp>
+  <samp>
+    </br>   <! -- /\/\ continuação do parágrafo de cima /\/\ -->
+  </samp>
+</h3>
+
 <h1></h1>
 
 </br>
