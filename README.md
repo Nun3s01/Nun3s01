@@ -14,7 +14,7 @@
     </br> System Analysis and Development.
   </samp>
   <samp>
-    </br>   <! -- /\/\ continuação do parágrafo de cima /\/\ -->
+    </br>   <!-- /\/\ continuação do parágrafo de cima /\/\ -->
   </samp>
 </h3>
 
@@ -28,7 +28,7 @@
 
 <h1></h1>
 
-</br>   <! -- /\/\ ínicio dos projetos /\/\ -->
+</br>   <!-- ínicio dos projetos -->
 <p align="center">
   <a href="//www.github.com/Nun3s01/bhaskara.s-algorithm">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=bhaskara.s-algorithm&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="300" />
