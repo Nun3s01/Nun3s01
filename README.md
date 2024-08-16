@@ -1,10 +1,8 @@
 <h1></h1>
 
-<p align="center">
-  <img src="https://github.com/Nun3s01/Nun3s01/blob/main/resources/Sans-Black-WBG-unscreen.gif" width="460px"/>
+<p>
+  <h1 align="center">- W E L C O M E -</h1>
 </p>
-
-<h1></h1>
 
 <h3 align="center"><samp>👋 Hello!</samp></h3>
 
