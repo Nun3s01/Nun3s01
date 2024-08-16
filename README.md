@@ -1,5 +1,3 @@
-<h1></h1>
-
 <p>
   <h1 align="center">- W E L C O M E -</h1>
 </p>
