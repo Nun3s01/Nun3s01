@@ -28,11 +28,11 @@
     <h1></h1></br>    <!--  Linha 01: Separação de [CABEÇA] E [CORPO]  -->
   </div>  
 </section>
-<section>
+<section align="center">
   <div>
-    <div  align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nun3s01&show=reviews&show_icons=true&theme=shadow_red&icon_color=ff0000&title_color=ffffff&text_color=ededed&bg_color=070417"width="380" align="left"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nun3s01&layout=compact&show_icons=true&theme=shadow_red&icon_color=ff0000&title_color=ffffff&text_color=ededed&bg_color=070417" width="380" align="right"/>  
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=Nun3s01&show=reviews&show_icons=true&theme=shadow_red&icon_color=ff0000&title_color=ffffff&text_color=ededed&bg_color=070417"width="380"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nun3s01&layout=compact&show_icons=true&theme=shadow_red&icon_color=ff0000&title_color=ffffff&text_color=ededed&bg_color=070417" width="380"/>  
     </div>
   </div>
 </section>
