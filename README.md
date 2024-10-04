@@ -39,7 +39,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=hello-world&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="300"/>
   </a> 
   <a href="//www.https://github.com/Nun3s01/converting-seconds.py">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=converting-seconds.py&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="257" align=""/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=converting-seconds.py&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="300" align=""/>
   </a>
 </p>
 
