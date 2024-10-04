@@ -32,16 +32,16 @@
 
 </br>   <!-- ínicio dos projetos -->
 <p align="center">
-  <a href="//www.github.com/Nun3s01/bhaskara.s-algorithm">
+  <a href="https://github.com/Nun3s01/bhaskara.s-algorithm">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=bhaskara.s-algorithm&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="300px" height="300px"/>
   </a>
-  <a href="//www.github.com/Nun3s01/hello-world">
+  <a href="https://github.com/Nun3s01/hello-world">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=hello-world&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="300"/>
   </a> 
-  <a href="//www.https://github.com/Nun3s01/converting-seconds.py">
+  <a href="https://github.com/Nun3s01/converting-seconds.py">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=converting-seconds.py&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="300"/>
   </a>
-  <a href="//www.https://github.com/Nun3s01/web-application-project">
+  <a href="https://github.com/Nun3s01/web-application-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=web-application-project&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="300"/>
   </a>
 </p>
