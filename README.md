@@ -11,8 +11,8 @@
   </div>
   <div>
     <h3>
-      <samp>I'm Cauã, and I'm studying</samp></br>
-      <samp>System Analysis and Development.</samp>
+      <samp>I'm Cauã, and welcome</samp></br>
+      <samp>to my GitHub.</samp>
     </h3></br>
   </div>
 </section>
