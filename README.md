@@ -53,7 +53,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=hello-world&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="250"/>
       </a>
       <a href="https://github.com/Nun3s01/fitness-all-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=web-application-project&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="250"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nun3s01&repo=fitness-all-project&theme=shadow_red&icon_color=ff0000&text_color=ededed&title_color=ffffff&bg_color=070417" width="250"/>
       </a>
     </div>
     <div>
