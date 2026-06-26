@@ -18,7 +18,7 @@
 
 </div>
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas aiiiii ze da manga
 
 <br/>
 
