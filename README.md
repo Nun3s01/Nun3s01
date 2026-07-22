@@ -97,10 +97,10 @@
 <div>
     <h3><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="auto" height="20" /> Statistics</strong></h3>
 </div>
-<div align="center">
-    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=Nun3s01"/>
-    <img src="https://streak-stats.demolab.com?user=Nun3s01&theme=dark&hide_border=true&border_radius=10&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=800&card_height=100&background=26272D" alt="GitHub Streak" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nun3s01&height=300&color=FFFFFF&bg_color=26272D&grid=false&line=FFFFFF&point=5A7CC3&radius=16&hide_border=true&hide_title=true"/>
-    <img src="https://stats.hyo.dev/api/github-trophies?login=Nun3s01"/>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=Nun3s01" width="640"/>
+    <img src="https://streak-stats.demolab.com?user=Nun3s01&theme=dark&hide_border=true&border_radius=10&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=800&card_height=250&background=26272D" alt="GitHub Streak" width="640"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nun3s01&height=300&color=FFFFFF&bg_color=26272D&grid=false&line=FFFFFF&point=5A7CC3&radius=16&hide_border=true&hide_title=true" width="640"/>
+    <!-- <img src="https://stats.hyo.dev/api/github-trophies?login=Nun3s01" width="60"/> -->
 </div>
 <!------------------------------------------------------------------------>
