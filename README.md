@@ -55,40 +55,24 @@
     <h3><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20px" height="auto" /> Technologies</strong></h3>
 </div>
 <div align="center">
-    <svg xmlns="http://www.w3.org/2000/svg" width="auto" height="auto" class="">
-        <style>
-            .topics img {
-                border-radius: 5px;
-                margin: 4px;
-                width: 42px;
-                height: auto;
-            }
-        </style>
-        <foreignObject x="0" y="0" width="100%" height="100%">
-            <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
-                <section>
-                    <div class="topics">
-                        <img src="./assets/technologies/html.svg" alt="HTML" title="HTML" />
-                        <img src="./assets/technologies/css.svg" alt="CSS" title="CSS" />
-                        <img src="./assets/technologies/javascript.svg" alt="JavaScript" title="JavaScript" />
-                        <img src="./assets/technologies/typescript.svg" alt="TypeScript" title="TypeScript" />
-                        <img src="./assets/technologies/astro.svg" alt="Astro" title="Astro" />
-                        <img src="./assets/technologies/react.svg" alt="React" title="React" />
-                        <img src="./assets/technologies/python.svg" alt="Python" title="Python"/>
-                        <img src="./assets/technologies/database.svg" alt="SQL" title="SQL" />
-                        <img src="./assets/technologies/git.svg" alt="Git" title="Git" />
-                        <img src="./assets/technologies/json.svg" alt="JSON" title="JSON" />
-                        <img src="./assets/technologies/markdown.svg" alt="Markdown" title="Markdown" />
-                        <img src="./assets/technologies/github.svg" alt="GitHub" title="GitHub" />
-                        <img src="./assets/technologies/linux.svg" alt="Linux" title="Linux" />
-                        <img src="./assets/technologies/windows.svg" alt="Windows" title="Windows" />
-                    </div>
-                </section>
-            </div>
-            <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
-        </foreignObject>
-    </svg>
+    <div style="display: flex; align-items: center; justify-content: space-evenly; gap: 10px;">
+        <img src="./assets/technologies/html.svg" alt="HTML" title="HTML" width="42px" height="auto" style="border-radius: 5px; margin: 2px;" />
+        <img src="./assets/technologies/css.svg" alt="CSS" title="CSS" width="42px" height="auto" style="border-radius: 5px; margin: 2px;" />
+        <img src="./assets/technologies/javascript.svg" alt="JavaScript" title="JavaScript" width="42px" height="auto" style="border-radius: 5px; margin: 2px;" />
+        <img src="./assets/technologies/typescript.svg" alt="TypeScript" title="TypeScript" width="42px" height="auto" style="border-radius: 5px; margin: 2px;" />
+        <img src="./assets/technologies/astro.svg" alt="Astro" title="Astro" width="42px" height="auto" style="border-radius: 5px; margin: 2px;" />
+        <img src="./assets/technologies/react.svg" alt="React" title="React" width="42px" height="auto" style="border-radius: 5px; margin: 2px;" />
+        <img src="./assets/technologies/python.svg" alt="Python" title="Python" width="42px" height="auto" style="border-radius: 5px; margin: 2px;" />
+        <img src="./assets/technologies/database.svg" alt="SQL" title="SQL" width="42px" height="auto" style="border-radius: 5px; margin: 2px;" />
+        <img src="./assets/technologies/git.svg" alt="Git" title="Git" width="42px" height="auto" style="border-radius: 5px; margin: 2px;" />
+        <img src="./assets/technologies/json.svg" alt="JSON" title="JSON" width="42px" height="auto" style="border-radius: 5px; margin: 2px;" />
+        <img src="./assets/technologies/markdown.svg" alt="Markdown" title="Markdown" width="42px" height="auto" style="border-radius: 5px; margin: 2px;" />
+        <img src="./assets/technologies/github.svg" alt="GitHub" title="GitHub" width="42px" height="auto" style="border-radius: 5px; margin: 2px;" />
+        <img src="./assets/technologies/linux.svg" alt="Linux" title="Linux" width="42px" height="auto" style="border-radius: 5px; margin: 2px;" />
+        <img src="./assets/technologies/windows.svg" alt="Windows" title="Windows" width="42px" height="auto" style="border-radius: 5px; margin: 2px;" />
+    </div>
 </div>
+
 <!------------------------------------------------------------------------>
 
 </br>
