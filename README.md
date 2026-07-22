@@ -14,16 +14,16 @@
 
 <!-------------------------------- Badges -------------------------------->
 <div align="center">
-    <a href="https://seu-portfolio.com">
+    <a href="SEM PORTFÓLIO NO MOMENTO!" target="_blank">
         <img src="https://img.shields.io/badge/Click here for my portfolio.-black?style=for-the-badge&logo=vercel&logoColor=white">
     </a>
 </div>
 </br>
 <div align="center">
-    <a href="www.linkedin.com/in/cnunes7">
+    <a href="https://www.linkedin.com/in/cnunes7/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0cm9rZT0iI2ZmZmZmZiI%2BCg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BCg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI%2BIDxnIGlkPSI3OTM1ZWM5NWM0MjFjZWU2ZDg2ZWIyMmVjZDEyNWFlZiI%2BIDxwYXRoIHN0eWxlPSJkaXNwbGF5OiBpbmxpbmU7IGZpbGwtcnVsZTogZXZlbm9kZDsgY2xpcC1ydWxlOiBldmVub2RkOyIgZD0iTTExNi41MDQsNTAwLjIxOVYxNzAuNjU0SDYuOTc1djMyOS41NjRIMTE2LjUwNCBMMTE2LjUwNCw1MDAuMjE5eiBNNjEuNzUxLDEyNS42NzRjMzguMTgzLDAsNjEuOTY4LTI1LjMyOCw2MS45NjgtNTYuOTUzYy0wLjcyMi0zMi4zMjgtMjMuNzg1LTU2Ljk0MS02MS4yNTItNTYuOTQxIEMyNC45OTQsMTEuNzgxLDAuNSwzNi4zOTQsMC41LDY4LjcyMmMwLDMxLjYyNSwyMy43NzIsNTYuOTUzLDYwLjUzLDU2Ljk1M0g2MS43NTFMNjEuNzUxLDEyNS42NzR6IE0xNzcuMTI0LDUwMC4yMTkgYzAsMCwxLjQzNy0yOTguNjQzLDAtMzI5LjU2NEgyODYuNjd2NDcuNzk0aC0wLjcyN2MxNC40MDQtMjIuNDksNDAuMzU0LTU1LjUzMyw5OS40NC01NS41MzMgYzcyLjA4NSwwLDEyNi4xMTYsNDcuMTAzLDEyNi4xMTYsMTQ4LjMzM3YxODguOTcxSDQwMS45NzFWMzIzLjkxMmMwLTQ0LjMwMS0xNS44NDgtNzQuNTMxLTU1LjQ5Ny03NC41MzEgYy0zMC4yNTQsMC00OC4yODQsMjAuMzgtNTYuMjAyLDQwLjA4Yy0yLjg5Nyw3LjAxMi0zLjYwMiwxNi44NjEtMy42MDIsMjYuNzExdjE4NC4wNDdIMTc3LjEyNEwxNzcuMTI0LDUwMC4yMTl6Ij4gPC9wYXRoPiA8L2c%2BIDwvZz4KDTwvc3ZnPg%3D%3D&logoColor=white">
     </a>
-    <a href="">
+    <a href="https://stackoverflow.com/users/32955766/" target="_blank">
         <img src="https://img.shields.io/badge/Stack Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white">
     </a>
 </div>
@@ -81,14 +81,11 @@
 <div>
     <h3><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="20px" height="auto" /> Statistics</strong></h3>
 </div>
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;">
-        <img src="https://stats.hyo.dev/api/github-stats-advanced?login=Nun3s01" width="442"/>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;">
-        <img src="https://streak-stats.demolab.com?user=Nun3s01&theme=dark&hide_border=true&border_radius=10&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=800&card_height=250&background=26272D" alt="GitHub Streak" width="442"/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nun3s01&height=300&color=FFFFFF&bg_color=26272D&grid=false&line=FFFFFF&point=5A7CC3&radius=16&hide_border=true&hide_title=true" width="442"/>
-    </div>
+<div align="center">
+    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=Nun3s01" align="left" width="49%" />
+    <img src="https://streak-stats.demolab.com?user=Nun3s01&theme=dark&hide_border=true&border_radius=10&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=800&card_height=250&background=26272D" width="49%" />
+    <br>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nun3s01&height=300&color=FFFFFF&bg_color=26272D&grid=false&line=FFFFFF&point=5A7CC3&radius=16&hide_border=true&hide_title=true" width="49%" />
 </div>
-    <!-- <img src="https://stats.hyo.dev/api/github-trophies?login=Nun3s01" width="60"/> -->
+<img src="https://stats.hyo.dev/api/github-trophies?login=Nun3s01" width="80%"/>
 <!------------------------------------------------------------------------>
