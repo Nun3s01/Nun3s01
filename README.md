@@ -1,6 +1,6 @@
 <!----------------------------- Introduction ----------------------------->
 <div>
-    <h3><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="auto" height="20" /> Hi, there!</strong></h3>
+    <h3><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="20px" height="auto" /> Hi, there!</strong></h3>
 </div>
 <div style="padding: 0; margin: 10px 0 0 40px">
     <p>
@@ -33,7 +33,7 @@
 
 <!------------------------------ Experience ------------------------------>
 <div>
-    <h3><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Laptop" width="auto" height="20" /> Experience</strong></h3>
+    <h3><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Laptop" width="20px" height="auto" /> Experience</strong></h3>
 </div>
 <div style="padding: 0; margin: 10px 0 0 40px">
     <p>
@@ -52,7 +52,7 @@
 
 <!----------------------------- Technologies ----------------------------->
 <div>
-    <h3><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="auto" height="20" /> Technologies</strong></h3>
+    <h3><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20px" height="auto" /> Technologies</strong></h3>
 </div>
 <div align="center">
     <svg xmlns="http://www.w3.org/2000/svg" width="auto" height="auto" class="">
@@ -60,8 +60,8 @@
             .topics img {
                 border-radius: 5px;
                 margin: 4px;
-                width: auto;
-                height: 38px;
+                width: 42px;
+                height: auto;
             }
         </style>
         <foreignObject x="0" y="0" width="100%" height="100%">
@@ -95,7 +95,7 @@
 
 <!------------------------------ Statistics ------------------------------>
 <div>
-    <h3><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="auto" height="20" /> Statistics</strong></h3>
+    <h3><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="20px" height="auto" /> Statistics</strong></h3>
 </div>
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 10px;">
