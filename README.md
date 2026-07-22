@@ -85,7 +85,7 @@
     <img src="https://stats.hyo.dev/api/github-stats-advanced?login=Nun3s01" align="left" width="48%"/>
     <img src="https://streak-stats.demolab.com?user=Nun3s01&theme=dark&hide_border=true&border_radius=10&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=800&card_height=250&background=26272D" width="48%" />
     <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nun3s01&height=300&color=FFFFFF&bg_color=26272D&grid=false&line=FFFFFF&point=5A7CC3&radius=16&hide_border=true&hide_title=true" width="48%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nun3s01&height=310&color=FFFFFF&bg_color=26272D&grid=false&line=FFFFFF&point=5A7CC3&radius=16&hide_border=true&hide_title=true" width="48%" />
 </div>
 <img src="https://stats.hyo.dev/api/github-trophies?login=Nun3s01" width="80%"/>
 <!------------------------------------------------------------------------>
