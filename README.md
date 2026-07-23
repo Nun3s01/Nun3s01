@@ -2,11 +2,13 @@
 <div>
     <h3><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="20px" height="auto" /> Hi, there!</strong></h3>
 </div>
-<div style="padding: 0; margin: 10px 0 0 40px">
-    <p>
-    How are you?</br>
-    My name is Cauã Nunes, and I like solving problems with technology!
-    </p>
+<div>
+    <ul>
+        <p>
+        How are you?</br>
+        My name is Cauã Nunes, and I like solving problems with technology!
+        </p>
+    </ul>
 </div>
 <!------------------------------------------------------------------------>
 
@@ -38,18 +40,20 @@
 <div>
     <h3><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Laptop" width="20px" height="auto" /> Experience</strong></h3>
 </div>
-<div style="padding: 0; margin: 10px 0 0 40px">
-    <p>
-    Currently, drawing on my overall experience, my work is primarily focused on <strong>front-end development</strong>, with some involvement in back-end technologies and logic.</br>
-    </br>
-    In front-end development, I excel at building static sites, corporate websites, landing pages, and portfolios.</br>
-    On the back-end side, I am familiar with HTTP methods and have a basic understanding of SQL and Python; my strongest asset here is my grasp of programming logic.</br>
-    </br>
-    </br>
-    <strong>=========================================================</strong></br>
-    <strong>It is never too late to seek knowledge and learn new things. You just have to want it!</strong></br>
-    <strong>=========================================================</strong>
-    </p>
+<div>
+    <ul>
+        <p>
+        Currently, drawing on my overall experience, my work is primarily focused on <strong>front-end development</strong>, with some involvement in back-end technologies and logic.</br>
+        </br>
+        In front-end development, I excel at building static sites, corporate websites, landing pages, and portfolios.</br>
+        On the back-end side, I am familiar with HTTP methods and have a basic understanding of SQL and Python; my strongest asset here is my grasp of programming logic.</br>
+        </br>
+        </br>
+        <strong>=========================================================</strong></br>
+        <strong>It is never too late to seek knowledge and learn new things. You just have to want it!</strong></br>
+        <strong>=========================================================</strong>
+        </p>
+    </ul>
 </div>
 <!------------------------------------------------------------------------>
 
