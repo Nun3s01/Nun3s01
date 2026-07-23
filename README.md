@@ -23,6 +23,9 @@
     <a href="https://www.linkedin.com/in/cnunes7/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDUxMiA1MTIiIHhtbDpzcGFjZT0icHJlc2VydmUiIHN0cm9rZT0iI2ZmZmZmZiI%2BCg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8%2BCg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI%2BIDxnIGlkPSI3OTM1ZWM5NWM0MjFjZWU2ZDg2ZWIyMmVjZDEyNWFlZiI%2BIDxwYXRoIHN0eWxlPSJkaXNwbGF5OiBpbmxpbmU7IGZpbGwtcnVsZTogZXZlbm9kZDsgY2xpcC1ydWxlOiBldmVub2RkOyIgZD0iTTExNi41MDQsNTAwLjIxOVYxNzAuNjU0SDYuOTc1djMyOS41NjRIMTE2LjUwNCBMMTE2LjUwNCw1MDAuMjE5eiBNNjEuNzUxLDEyNS42NzRjMzguMTgzLDAsNjEuOTY4LTI1LjMyOCw2MS45NjgtNTYuOTUzYy0wLjcyMi0zMi4zMjgtMjMuNzg1LTU2Ljk0MS02MS4yNTItNTYuOTQxIEMyNC45OTQsMTEuNzgxLDAuNSwzNi4zOTQsMC41LDY4LjcyMmMwLDMxLjYyNSwyMy43NzIsNTYuOTUzLDYwLjUzLDU2Ljk1M0g2MS43NTFMNjEuNzUxLDEyNS42NzR6IE0xNzcuMTI0LDUwMC4yMTkgYzAsMCwxLjQzNy0yOTguNjQzLDAtMzI5LjU2NEgyODYuNjd2NDcuNzk0aC0wLjcyN2MxNC40MDQtMjIuNDksNDAuMzU0LTU1LjUzMyw5OS40NC01NS41MzMgYzcyLjA4NSwwLDEyNi4xMTYsNDcuMTAzLDEyNi4xMTYsMTQ4LjMzM3YxODguOTcxSDQwMS45NzFWMzIzLjkxMmMwLTQ0LjMwMS0xNS44NDgtNzQuNTMxLTU1LjQ5Ny03NC41MzEgYy0zMC4yNTQsMC00OC4yODQsMjAuMzgtNTYuMjAyLDQwLjA4Yy0yLjg5Nyw3LjAxMi0zLjYwMiwxNi44NjEtMy42MDIsMjYuNzExdjE4NC4wNDdIMTc3LjEyNEwxNzcuMTI0LDUwMC4yMTl6Ij4gPC9wYXRoPiA8L2c%2BIDwvZz4KDTwvc3ZnPg%3D%3D&logoColor=white">
     </a>
+    <a href="mailto:cauanunes77@yahoo.com">
+        <img src="https://img.shields.io/badge/Gmail-C71610?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
     <a href="https://stackoverflow.com/users/32955766/" target="_blank">
         <img src="https://img.shields.io/badge/Stack Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white">
     </a>
@@ -43,7 +46,9 @@
     On the back-end side, I am familiar with HTTP methods and have a basic understanding of SQL and Python; my strongest asset here is my grasp of programming logic.</br>
     </br>
     </br>
-    <strong>It is never too late to seek knowledge and learn new things. You just have to want it!</strong>
+    <strong>=========================================================</strong></br>
+    <strong>It is never too late to seek knowledge and learn new things. You just have to want it!</strong></br>
+    <strong>=========================================================</strong>
     </p>
 </div>
 <!------------------------------------------------------------------------>
