@@ -83,16 +83,3 @@
 </div>
 
 <!------------------------------------------------------------------------>
-
-</br>
-
-<!------------------------------ Statistics ------------------------------>
-<div>
-    <h3><strong><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="20px" height="auto" /> Statistics</strong></h3>
-</div>
-<div align="center">
-    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=Nun3s01" width="100%" />
-</div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nun3s01&height=315&color=FFFFFF&bg_color=26272D&grid=false&line=FFFFFF&point=5A7CC3&radius=16&hide_border=true&hide_title=true" width="100%" />
-<img src="https://stats.hyo.dev/api/github-trophies?login=Nun3s01" width="80%"/>
-<!------------------------------------------------------------------------>
